@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cmyxt502.github.io</id>
     <title>Maurice.Maurice</title>
-    <updated>2019-05-26T12:23:50.665Z</updated>
+    <updated>2019-05-26T12:25:18.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cmyxt502.github.io"/>
     <link rel="self" href="https://cmyxt502.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>Collector and creator</subtitle>
     <logo>https://cmyxt502.github.io/images/avatar.png</logo>
     <icon>https://cmyxt502.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Maurice.Maurice</rights>
