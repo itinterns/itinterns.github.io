@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://itinterns.github.io</id>
     <title>IT Services Intern Programme</title>
-    <updated>2019-08-21T05:54:54.650Z</updated>
+    <updated>2019-08-21T05:56:57.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://itinterns.github.io"/>
     <link rel="self" href="https://itinterns.github.io/atom.xml"/>
@@ -18,31 +18,29 @@
         <content type="html"><![CDATA[<p>ITIP: How to Apply</p>
 <p>If you are not using a Nottingham-CN account, please contact itactivity@nottingham.edu.cn for assistance as the form is not available to you.</p>
 <h1>Benefits</h1>
-<p>Benefits provided to interns may include:</p>
-<ul>
-<li>Salary</li>
-<li>Professional Training from IT Services Staff</li>
-<li>Certificate of Internship</li>
-<li>End-of-year Awards</li>
-<li>Teamwork and Project Experience</li>
-</ul>
+Benefits provided to interns may include:
+* Salary
+* Professional Training from IT Services Staff
+* Certificate of Internship
+* End-of-year Awards
+* Teamwork and Project Experience
 <h1>Available Opportunities</h1>
-<p>We are currently offering these opportunities:</p>
+We are currently offering these opportunities:
 <h3>Parallel Lab, Developer (FoSE only)</h3>
 <h4>Job Description:</h4>
 With the latest technology, Parallel Lab research and develop projects benefitting the university community.
-<p>Media &amp; Public Relations, Intern</p>
-<p>Job Description:</p>
-<p>Rapid Response to ongoing IT-related incidents</p>
-<p>Weekly news &amp; information article</p>
-<p>Organization fo events</p>
-<p>Coordination with on-campus clubs, organizations and offices</p>
-<p>IT Services Desk+, Intern</p>
-<p>Job Description:<br>
-Providing professional peer-to-peer technical support to university staff and students.</p>
-<p>Salary</p>
-<p>Your salary would be CNY 20 per hour and is issued on a monthly basis. Personal Income Tax deducted when salary is above CNY 1,000 in a single issue.</p>
-<p>Application Procedures</p>
+<h3>Media & Public Relations, Intern</h3>
+<h4>Job Description:</h4>
+Rapid Response to ongoing IT-related incidents
+Weekly news & information article
+Organization fo events
+Coordination with on-campus clubs, organizations and offices
+<h3>IT Services Desk+, Intern</h3>
+<h4>Job Description:</h4>
+Providing professional peer-to-peer technical support to university staff and students.
+<h1>Salary</h1>
+Your salary would be CNY 20 per hour and is issued on a monthly basis. Personal Income Tax deducted when salary is above CNY 1,000 in a single issue.
+<h1>Application Procedures</h1>
 <p>To complete your online application, you should email us your resume at itactivity@nottingham.edu.cn and fill out the application form with your university ID. Both shall be completed by 20 September 2019. You may find the link to form at bottom of the page. Please do not provide any extra supporting material as they will be ignored.</p>
 <p>Note that Android users may not be able to access the form via WeChat's built-in browser. Google Chrome is advised as a solution if this problem occurs on your mobile.</p>
 <p>Additional Information</p>
