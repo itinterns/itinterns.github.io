@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://cmyxt502.github.io</id>
-    <title>Maurice.Maurice</title>
-    <updated>2019-05-26T12:25:18.285Z</updated>
+    <id>https://itinterns.github.io</id>
+    <title>IT Services Intern Programme</title>
+    <updated>2019-08-21T05:42:11.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://cmyxt502.github.io"/>
-    <link rel="self" href="https://cmyxt502.github.io/atom.xml"/>
-    <subtitle>Collector and creator</subtitle>
-    <logo>https://cmyxt502.github.io/images/avatar.png</logo>
-    <icon>https://cmyxt502.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, Maurice.Maurice</rights>
+    <link rel="alternate" href="https://itinterns.github.io"/>
+    <link rel="self" href="https://itinterns.github.io/atom.xml"/>
+    <logo>https://itinterns.github.io/images/avatar.png</logo>
+    <icon>https://itinterns.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2019, IT Services Intern Programme</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://cmyxt502.github.io/post/hello-gridea</id>
-        <link href="https://cmyxt502.github.io/post/hello-gridea">
+        <id>https://itinterns.github.io/post/hello-gridea</id>
+        <link href="https://itinterns.github.io/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
