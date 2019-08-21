@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://itinterns.github.io</id>
     <title>IT Services Intern Programme</title>
-    <updated>2019-08-21T05:53:49.418Z</updated>
+    <updated>2019-08-21T05:54:54.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://itinterns.github.io"/>
     <link rel="self" href="https://itinterns.github.io/atom.xml"/>
@@ -28,9 +28,9 @@
 </ul>
 <h1>Available Opportunities</h1>
 <p>We are currently offering these opportunities:</p>
-<p>Parallel Lab, Developer (FoSE only)</p>
-<p>Job Description:</p>
-<p>With the latest technology, Parallel Lab research and develop projects benefitting the university community.</p>
+<h3>Parallel Lab, Developer (FoSE only)</h3>
+<h4>Job Description:</h4>
+With the latest technology, Parallel Lab research and develop projects benefitting the university community.
 <p>Media &amp; Public Relations, Intern</p>
 <p>Job Description:</p>
 <p>Rapid Response to ongoing IT-related incidents</p>
