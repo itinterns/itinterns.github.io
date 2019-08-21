@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://itinterns.github.io</id>
     <title>IT Services Intern Programme</title>
-    <updated>2019-08-21T16:11:53.017Z</updated>
+    <updated>2019-08-21T16:12:58.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://itinterns.github.io"/>
     <link rel="self" href="https://itinterns.github.io/atom.xml"/>
-    <subtitle>IT Services Intern Programme-We Make IT Happen!</subtitle>
+    <subtitle>We Make IT Happen!</subtitle>
     <logo>https://itinterns.github.io/images/avatar.png</logo>
     <icon>https://itinterns.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, IT Services Intern Programme</rights>
