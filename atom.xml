@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://itinterns.github.io</id>
     <title>IT Services Intern Programme</title>
-    <updated>2019-08-21T16:00:50.292Z</updated>
+    <updated>2019-08-21T16:03:32.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://itinterns.github.io"/>
     <link rel="self" href="https://itinterns.github.io/atom.xml"/>
@@ -29,31 +29,30 @@ Benefits provided to interns may include:</p>
 <p><br><hr><h1>Available Opportunities</h1><br>
 We are currently offering these opportunities:</p>
 <h3>Parallel Lab, Developer (FoSE only)</h3>
-<h4>Job Description:</h4>
+<h5>Job Description:</h5>
 With the latest technology, Parallel Lab research and develop projects benefitting the university community.
 <br>
 <h3>Media & Public Relations, Intern</h3>
-<h4>Job Description:</h4>
+<h5>Job Description:</h5>
 Rapid Response to ongoing IT-related incidents
 Weekly news & information article
 Organization fo events
 Coordination with on-campus clubs, organizations and offices
 <br>
 <h3>IT Services Desk+, Intern</h3>
-<h4>Job Description:</h4>
+<h5>Job Description:</h5>
 Providing professional peer-to-peer technical support to university staff and students.
 <p><br><hr><h1>Salary</h1><br>
 Your salary would be CNY 20 per hour and is issued on a monthly basis. Personal Income Tax deducted when salary is above CNY 1,000 in a single issue.</p>
 <p><br><hr><h1>Application Procedures</h1><br>
 To complete your online application, you should email us your resume at itactivity@nottingham.edu.cn and fill out the application form with your university ID. Both shall be completed by 20 September 2019. You may find the link to form at bottom of the page. Please do not provide any extra supporting material as they will be ignored.<br>
 Note that Android users may not be able to access the form via WeChat's built-in browser. Google Chrome is advised as a solution if this problem occurs on your mobile.</p>
-<p><br><hr><h1>Additional Information</h1><br>
-Terms and conditions apply.<br>
-We reserve the right to alter this article or/and the application procedure without notice.<br>
-For any inquiries, email us at itactivity@nottingham.edu.cn<br>
-We are not responsible if information made available on this article is not accurate, complete or current. The material on this article is provided for general information only and should not be relied upon or used as the sole basis for making decisions without consulting primary, more accurate, more complete or more timely sources of information. Any reliance on the material on this article is at your own risk.<br>
-This article may contain certain historical information. Historical information, necessarily, is not current and is provided for your reference only. We reserve the right to modify the contents of this article at any time, but we have no obligation to update any information on this article. You agree that it is your responsibility to monitor changes to this article.</p>
-]]></content>
+<p><br><hr><h1>Additional Information</h1></p>
+<p>Terms and conditions apply.
+We reserve the right to alter this article or/and the application procedure without notice.
+For any inquiries, email us at itactivity@nottingham.edu.cn
+We are not responsible if information made available on this article is not accurate, complete or current. The material on this article is provided for general information only and should not be relied upon or used as the sole basis for making decisions without consulting primary, more accurate, more complete or more timely sources of information. Any reliance on the material on this article is at your own risk.
+This article may contain certain historical information. Historical information, necessarily, is not current and is provided for your reference only. We reserve the right to modify the contents of this article at any time, but we have no obligation to update any information on this article. You agree that it is your responsibility to monitor changes to this article.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
